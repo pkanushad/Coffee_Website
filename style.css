@@ -1,0 +1,473 @@
+
+#header{
+    background-color: #c8a27a;
+    height: 100px;
+    position: sticky;
+    top: 0px;
+    /* background: rgba(36,36,36,0); */
+}
+#disp1{
+    margin-left: 854px;
+    margin-top: -19px;
+    font-size: medium;
+    color: white;
+
+}
+#disp2{
+    margin-left: 918px;
+    margin-top: -33px;
+    font-size: medium;
+    color: white;
+}
+#disp3{
+    margin-left: 975px;
+    margin-top: -33px;
+    font-size: medium;
+    color: white;
+}
+#disp4{
+    margin-left: 1067px;
+    margin-top: -33px;
+    font-size: medium;
+    color: white;
+}
+#disp5{
+    margin-left: 1188px;
+    margin-top: -33px;
+    font-size: medium;
+    color: white;
+}
+
+#banner{
+    width:100%;
+    height:500px;
+}
+.logo{
+   margin-left:628px;
+   height: 80px;
+   width: 80px;
+}
+p{
+    font-family: "Nunito Sans",sans-serif; 
+    letter-spacing: .1em;
+}   
+button{
+    background-color: #c8a27a;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 40px;
+    padding: 2px;
+    font-size: small;
+}
+#col_1{
+    height: 200px;
+    width: 500px;
+    padding: 3px;
+    font-size: medium;
+    background-color: #fff;
+    margin-left: 100px;
+    margin-top: 400px;
+}
+#col2_img{
+    margin-left: 700px;
+    padding: 3px;
+    margin-top: -501px;
+    height: 600px;
+}
+h2{
+    font-family: "M PLUS Rounded 1c",sans-serif;
+    font-size: 36px;
+    letter-spacing: .1em;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+.gall_1{
+    width: 200px;
+    height: 300px;
+    margin-left: 100px;
+}
+.gall_2{
+    width: 200px;
+    height: 300px;
+    
+
+}
+.gall_3{
+    width: 200px;
+    height: 300px;
+    margin-top: 100px;
+}
+/* ****products***** */
+#prod{
+    width:310px;
+    height: 500px;
+    /* background-color: black; */
+    color: black;
+    float: left;
+    padding: 2px;
+    /* border: 2px solid white; */
+    margin-left: 100px;
+    text-align: center;
+}
+#prod_img{
+    width:100%;
+    height: 400px;
+}
+h3{
+    font-family: "M PLUS Rounded 1c",sans-serif;
+    /* font-size: 24px; */
+    letter-spacing: 0;
+}
+#menu{
+    margin-left:600px;
+}
+#produ_{
+    font-family: "M PLUS Rounded 1c",sans-serif;
+    font-size:36px;
+    letter-spacing: .1em;
+    padding: 10px;
+    margin-left: 100px;
+}
+#pro_gall{
+    font-family: "M PLUS Rounded 1c",sans-serif;
+    font-size: 20px;
+    letter-spacing: 0;
+
+}
+
+/* **************************dilaof****************8 */
+#back_img{
+    margin-top: 300px;
+}
+#dec_3{
+    width: 100%;
+}
+#smile_{
+    margin-left: 100px;
+    margin-top: -800px;
+    height: 500px;
+}
+#dialg_qote{
+    color:black;
+    height: 100px;
+    width: 400px;
+    padding: 20px;
+    font-size: x-large;
+    margin-left: 800px;
+    margin-top: -213px;   
+}
+/* ********************LOCATION*********************** */
+#col1_loca{
+    height: 200px;
+    width: 500px;
+    padding: 3px;
+    font-size: medium;
+    background-color: #fff;
+    margin-left: 100px;
+    margin-top: 500PX;
+}
+#col2_loca{
+    margin-left: 700px;
+    padding: 3px;
+    margin-top: -501px;
+    height: 600px;
+}
+#loca_head{
+    /* margin-left:-10px; */
+    font-family: "M PLUS Rounded 1c",sans-serif;
+    font-size: 36px;
+    letter-spacing: .1em;
+    padding: 10px;
+    margin-left:-10px;
+}
+#deca_5{
+    margin-left: 400px;
+    margin-top: 500px;
+}
+/* ****************************merchandise************************ */
+#merche_{
+    margin-top: 300px;
+}
+#prod_2{
+    margin-top: 100px;
+    width:305px;
+    height: 300px;
+    /* background-color: black; */
+    color: black;
+    float: left;
+    padding: 2px;
+    /* border: 2px solid white; */
+    margin-left: 100px;
+}
+#merch_img{
+    width:100%;
+    height: 300px;
+}
+#order_{
+    background-color: white;
+    color:#c8a27a;
+    border: 2px solid #c8a27a;
+}
+#mer{
+    font-family: "M PLUS Rounded 1c",sans-serif;
+    font-size: 36px;
+    letter-spacing: .1em;
+    padding: 10px;
+    margin-left: 100px;
+}
+/* **********************OFFER BG*******************88 */
+#offer_body{
+    background-image: url(./images_demo/decoration-3.jpg);
+    height: 400px;
+    width: 100%;
+    margin-top: 700px;
+}
+
+#offer_bg{
+    width:500px;
+    height: 200px;
+    background-color: white;
+    color: white;
+    float: left;
+    padding: 10px;
+    /* border: 2px solid yellow; */
+    margin-left: 100px;
+    text-align: center;
+    margin-top:100px ;
+}
+#offr_img{
+    width:150px;
+    height:150px; 
+    padding: 10px;
+    margin-left:-345px;
+    margin-top: 13px;
+}
+#dil_{
+    margin-left: 150px;
+    margin-top: -190px;
+    width: 300px;
+    padding: 10px;
+}
+#head_offer{
+    font-size: 18px;
+    color:black;
+}
+#dial_ofer{
+    color: black;
+}
+/* <!-- *******************************last***************************88 --> */
+
+#last{
+    margin-top: 100px;
+    padding: 10px;
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+}
+#text_last{
+    margin-left:500px;
+    font-size: x-large;
+}
+#logo_last{
+    margin-left:627px ;
+    padding: 10px;
+}
+#lastline{
+    overflow: hidden;
+    width: 75%;
+    margin-left: 166px;
+    margin-top: 200px;
+}
+/* ************************LAST LINKS************************88 */
+/* #links_la{
+    background-image: url(./images_demo/footer-bg.png);
+    width: 100%;
+    height: 250px;
+}
+#logo_footer{
+    margin-left:100px;
+}
+#footer_head_1{
+    margin-left: 200px;
+
+}
+#footer_head_2{
+    margin-left: 500px;
+    margin-top:-100px;
+    
+} */
+.row{
+    background-image: url(./images_demo/footer-bg.png);
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    padding: 3px;
+}
+
+.col{
+    width: 200px;
+    height: 300px;
+    border: 3px white solid;
+    padding: 3px;
+}
+.col1{
+    /* background-color: antiquewhite; */
+    padding: 3px;
+
+}
+
+.col2{
+    padding: 3px;
+}
+.col3{
+    padding: 3px;
+}
+.col4{
+    padding: 3px;
+}
+
+#col1_logo{
+    width: 50%;
+}
+#foot_head{
+    font-size: x-large;
+}
+#insta_{
+    height: 15px;
+    width: 15px;
+
+}
+/* *******************footer>>>>>>>>>>>>>>>>>>>>>>> */
+
+#foot{
+    margin-top: 5px;
+    width: 100%;
+    height: 50px;
+    background-color:#c8a27a;
+    color: white;
+}
+
+/* ************************HOVER ************************************************************************* */
+
+/* ##########  HEADER ###############33 */
+#disp1:hover{
+    color:black;
+    font-size: medium;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    width: 51px;
+    padding:2px;
+
+}
+#disp2:hover{
+    color:black;
+    font-size: medium;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    width: 52px;
+    padding:2px;
+
+}
+#disp3:hover{
+    color:black;
+    font-size: medium;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    width: 80px;
+    padding:2px;
+    
+}
+#disp4:hover{
+    color:black;
+    font-size: medium;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    width: 110px;
+    padding:2px;
+}
+#disp5:hover{
+    color: black;
+    font-size: medium;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    width: 70px;
+    padding:2px;
+}
+
+/* *********************8BUTTON**************8 */
+button:hover{
+    width: 152px;
+    height: 42px;
+    padding: 3px;
+
+}
+
+/* ************product*****************8 */
+#prod:hover{
+    width:310px;
+    height: 500px;
+    color: black;
+    float: left;
+    padding: 2px;
+    /* border: 2px solid white; */
+    margin-left: 100px;
+    text-align: center;
+    
+    border-radius: 2px;
+}
+#prod_img:hover{
+    width:100%;
+    height: 402px;
+    border-radius: 2px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+#pro_gall:hover{
+    color:chocolate;
+}
+
+/* ********************smile*******************88 */
+#smile_:hover{
+    height: 501px;
+}
+#dialg_qote:hover{
+    color:brown;
+    height: 101px;
+    width: 401px;
+    padding: 20px;
+    font-size: x-large;
+    margin-left: 800px;
+    margin-top: -213px;   
+}
+/* ****************merchendis****************************88 */
+#prod_2:hover{
+    margin-top: 100px;
+    width:305px;
+    height: 300px;
+    /* background-color: black; */
+    color: black;
+    float: left;
+    padding: 2px;
+    /* border: 2px solid white; */
+    margin-left: 100px;
+}
+#merch_img:hover{
+    width:100%;
+    height: 302px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 2px;
+}
+
+/* *******************offer****************************** */
+#offer_bg:hover{
+    width:502px;
+    height: 202px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+#offr_img:hover{
+    width:152px;
+    height:152px; 
+}
+/* *****************footer**************************88 */
+
+#foot_head:hover{
+    color: brown;
+}
